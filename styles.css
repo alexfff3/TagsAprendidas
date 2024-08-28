@@ -1,0 +1,80 @@
+/* Estilo para o corpo da página */
+body {
+    font-family: Arial, sans-serif; /* Fonte do texto */
+    line-height: 1.6; /* Altura da linha */
+    margin: 20px; /* Margem da página */
+    background-color: #f4f4f4; /* Cor de fundo da página */
+}
+
+/* Estilo para o título principal */
+h1 {
+    color: #333; /* Cor do texto */
+    text-align: center; /* Centraliza o texto */
+}
+
+/* Estilo para os subtítulos */
+h2 {
+    color: #555; /* Cor do texto dos subtítulos */
+    border-bottom: 2px solid #ccc; /* Linha abaixo do subtítulo */
+    padding-bottom: 5px; /* Espaçamento abaixo do subtítulo */
+}
+
+/* Estilo para os parágrafos */
+p {
+    margin: 10px 0; /* Margem acima e abaixo do parágrafo */
+}
+
+/* Estilo para links */
+a {
+    color: #007bff; /* Cor do texto do link */
+    text-decoration: none; /* Remove o sublinhado */
+}
+
+a:hover {
+    text-decoration: underline; /* Sublinha o texto ao passar o mouse */
+}
+
+/* Estilo para listas não ordenadas */
+ul {
+    list-style-type: disc; /* Tipo de marcador da lista */
+    margin-left: 20px; /* Margem à esquerda para a lista */
+}
+
+/* Estilo para listas ordenadas */
+ol {
+    list-style-type: decimal; /* Tipo de numeração da lista */
+    margin-left: 20px; /* Margem à esquerda para a lista */
+}
+
+/* Estilo para o texto em negrito */
+strong {
+    color: #000; /* Cor do texto em negrito */
+}
+
+/* Estilo para o texto sublinhado */
+u {
+    text-decoration: underline; /* Sublinha o texto */
+}
+
+/* Estilo para o texto em itálico */
+i {
+    font-style: italic; /* Estilo de fonte itálico */
+}
+
+/* Estilo para o texto em destaque */
+mark {
+    background-color: yellow; /* Cor de fundo para destaque */
+}
+
+/* Estilo para o código */
+code {
+    background-color: #eaeaea; /* Cor de fundo do código */
+    padding: 2px 5px; /* Espaçamento interno do código */
+    border-radius: 3px; /* Bordas arredondadas do código */
+}
+
+/* Estilo para o rodapé de "voltar" */
+small {
+    display: block; /* Mostra o "voltar" como um bloco */
+    margin-top: 10px; /* Margem acima do rodapé */
+}
